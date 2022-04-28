@@ -1,9 +1,9 @@
 {
-  "TranslationID": "1651080655",
-  "TranslationUrl": "https://rhadamants.github.io/[tribogamer.com]_Lightning_Return_FF13.bin",
-  "TranslationChangelog": "Preciso que reportem no Discord\nDiálogos em CGs   = 100%\nDiálogos de cenário = 35%\nTextos do sistema  = 75%",
-  "AppVersion": "1.0.0.42",
-  "AppUrl": "https://cdn.discordapp.com/attachments/958350307363024967/964316154891993138/LightningReturnFFXIII_pt-BR.exe",
-  "UpdateUrl": "https://cdn.discordapp.com/attachments/958350307363024967/964316154891993138/LightningReturnFFXIII_pt-BR.exe",
-  "Hash": "453EAF6281C2E816D368AA5965876CFBE34BEC2AD3F62AFADC59DDA4E6E9AFD8"
+  "TranslationID": "1651164307",
+  "TranslationUrl": "https://rhadamants.github.io/LRFFXIII/[tribogamer.com]_Lightning_Return_FF13.bin",
+  "TranslationChangelog": "Por favor, testem todo o Banco de dados e missões.\nReportem má ou melhoria de formatação no Discord.\nDiálogos em CGs   = 100%\nDiálogos de cenário = 35%\nTextos do sistema  = 75%",
+  "AppVersion": "1.0.0.43",
+  "AppUrl": "https://cdn.discordapp.com/attachments/958350307363024967/966870712289726464/LightningReturnFFXIII_pt-BR.exe",
+  "UpdateUrl": "https://cdn.discordapp.com/attachments/958350307363024967/966870712289726464/LightningReturnFFXIII_pt-BR.exe",
+  "Hash": "DC53770528766D7C12AD09613F25024DC85B79FB69B4F3380ACB287B2A2BA821"
 }
