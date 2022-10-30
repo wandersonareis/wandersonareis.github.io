@@ -1,9 +1,9 @@
 {
-  "TranslationID": "1667139811",
+  "TranslationID": "1667151446",
   "TranslationUrl": "https://rhadamants.github.io/LRFFXIII/[tribogamer.com]_Lightning_Return_FF13.bin",
-  "TranslationChangelog": "Textos todos traduzido e primeira revisão completa.\r\nPeço que informem no Discord onde o jogo tem crash, enviando save game se possível.\r\nDiálogos em CGs   = 100%\nDiálogos de cenário = 100% arquivos\nTextos do sistema  = 100%",
+  "TranslationChangelog": "Textos todos traduzido e primeira revisão completa.\r\nPeço que informem no Discord onde o jogo tem crash, enviando save game se possível.\r\nDiálogos em CGs   = 100%\\nDiálogos de cenário = 100% arquivos\\nTextos do sistema  = 100% ",
   "AppVersion": "1.0.0.43",
   "AppUrl": "https://cdn.discordapp.com/attachments/958350307363024967/966870712289726464/LightningReturnFFXIII_pt-BR.exe",
   "UpdateUrl": "https://cdn.discordapp.com/attachments/958350307363024967/966870712289726464/LightningReturnFFXIII_pt-BR.exe",
-  "Hash": "79ABC4608F889BA20CDBF37C27AA1A1625D8827302B0E662852CBCECD00638CF"
+  "Hash": "919CA130C52C49AB5B6E6CB07C627D2AD641FB5FC73A6A49A9F04C591D6CB3A2"
 }
